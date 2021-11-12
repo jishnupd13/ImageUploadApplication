@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/JISHNU/AndroidStudioProjects/ExampleAndroid/app/src/main/res/drawable-v24/user_image.xml" value="0.1" />
+        <entry key="..\:/Users/JISHNU/AndroidStudioProjects/ExampleAndroid/app/src/main/res/drawable/user_image.xml" value="0.1" />
+        <entry key="..\:/Users/JISHNU/AndroidStudioProjects/ExampleAndroid/app/src/main/res/layout/activity_image_upload.xml" value="0.178125" />
+        <entry key="..\:/Users/JISHNU/AndroidStudioProjects/ExampleAndroid/app/src/main/res/layout/activity_splash_screen.xml" value="0.178125" />
+        <entry key="..\:/Users/JISHNU/AndroidStudioProjects/Mvvm-architecture-kotlin/app/src/main/res/layout/fragment_first.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK" />
+</project>
